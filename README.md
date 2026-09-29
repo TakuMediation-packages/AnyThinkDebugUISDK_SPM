@@ -6,7 +6,7 @@ The Taku (AnyThink) Debugger UI SDK for iOS, distributed via Swift Package Manag
 
 - iOS 12.0+
 - Xcode 15.0+
-- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
+- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.60+
 
 ## Installation
 
@@ -34,7 +34,7 @@ dependencies: [
 
 ## Included dependencies
 
-- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.0)
+- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
 
 ## More information
 
