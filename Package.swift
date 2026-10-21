@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkDebuggerUISDK",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/SDK_Release/DebuggerUI/iOS/1.1.1/AnyThinkDebuggerUISDK.zip",
-            checksum: "1ab602d1b0e126ddb488b43f51bf1336ac6fa53a4ef84be8c299bff3d36d96f1"
+            checksum: "c2c8c77ac9c20411339e367fb93e3babd6cb0c052938335544786cf6a9800581"
         ),
         .target(
             name: "AnyThinkDebugUISDKTarget",
